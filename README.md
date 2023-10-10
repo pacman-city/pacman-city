@@ -3,7 +3,7 @@
 <br/>
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=font-family%3A+-apple-system%2CBlinkMacSystemFont%2C%22Segoe+UI%22%2CHelvetica%2CArial%2Csans-serif%2C%22Apple+Color+Emoji%22%2C%22Segoe+UI+Emoji%22;&size=24&color=3335FF&height=32&lines=Yandex+Practicum+graduate+Python+backend+frontend)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=oswald&weight=700&size=24&duration=3000&pause=1000&color=3BCAF7&random=false&width=500&height=45&lines=Yandex+Practicum+graduate+...;Back-end+and+Front-end+developer;Fullstack+developer+++%F0%9F%91%86;Python+developer+and+Javascri+++++++%F0%9F%A4%AF;damn+it+...++++++++++++%F0%9F%A4%AC)](https://git.io/typing-svg)
 
 <br/>
 
